@@ -1,0 +1,9 @@
+# Rails
+/log
+/tmp
+/vendor/bundle
+*.sqlite3
+.DS_Store
+
+# Node.js
+node_modules/
